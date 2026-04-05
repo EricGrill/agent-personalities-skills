@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-Plugin-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code Plugin">
-  <img src="https://img.shields.io/badge/Agents-136-58A6FF?style=for-the-badge" alt="136 Agents">
-  <img src="https://img.shields.io/badge/Personalities-30-F78166?style=for-the-badge" alt="30 Personalities">
+  <img src="https://img.shields.io/badge/Agents-137-58A6FF?style=for-the-badge" alt="137 Agents">
+  <img src="https://img.shields.io/badge/Personalities-31-F78166?style=for-the-badge" alt="31 Personalities">
   <img src="https://img.shields.io/badge/Skills-4-3FB950?style=for-the-badge" alt="4 Skills">
 </p>
 
 <h1 align="center">Agent Personalities & Skills</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=136+Specialized+Agents;30+Unique+Personalities;Installable+Claude+Code+Plugin;Drop+In+%26+Go" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=137+Specialized+Agents;31+Unique+Personalities;Installable+Claude+Code+Plugin;Drop+In+%26+Go" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 <p align="center">
   <a href="#-quick-start">Quick Start</a> •
-  <a href="#-agents-136">Agents</a> •
-  <a href="#-personalities-30">Personalities</a> •
+  <a href="#-agents-137">Agents</a> •
+  <a href="#-personalities-31">Personalities</a> •
   <a href="#-skills">Skills</a> •
   <a href="#-contributing">Contributing</a>
 </p>
@@ -53,7 +53,7 @@ cat personalities/general/architecture-astronaut.md
 
 ---
 
-## 🤖 Agents (136)
+## 🤖 Agents (137)
 
 All agents use Claude Code SDK format — YAML frontmatter with `name`, `description`, `tools`, and `model`, followed by a system prompt. Drop them into `agents/` and they're ready.
 
@@ -188,7 +188,7 @@ All agents use Claude Code SDK format — YAML frontmatter with `name`, `descrip
 ### Business & Product
 
 <p>
-  <img src="https://img.shields.io/badge/biz-11_agents-58A6FF?style=flat-square" alt="biz">
+  <img src="https://img.shields.io/badge/biz-12_agents-58A6FF?style=flat-square" alt="biz">
 </p>
 
 | Agent | Description |
@@ -200,6 +200,7 @@ All agents use Claude Code SDK format — YAML frontmatter with `name`, `descrip
 | `product-manager` | Product strategy, feature prioritization, roadmap planning |
 | `project-manager` | Project plans, risk management, budget, stakeholder coordination |
 | `sales-engineer` | Technical pre-sales, solution architecture, POC development |
+| `startup-validator` | Brutal idea stress-testing — failure modes, angry customers, pricing, survival plans |
 | `scrum-master` | Agile facilitation, sprint planning, velocity improvement |
 | `technical-writer` | API references, user guides, SDK docs, getting-started guides |
 | `ux-researcher` | User research, usability testing, persona development |
@@ -279,7 +280,7 @@ All agents use Claude Code SDK format — YAML frontmatter with `name`, `descrip
 
 ---
 
-## 🎭 Personalities (30)
+## 🎭 Personalities (31)
 
 Framework-agnostic system prompts that shape AI behavior. Copy the system prompt block into any AI assistant.
 
@@ -323,6 +324,7 @@ Framework-agnostic system prompts that shape AI behavior. Copy the system prompt
 | Book Positioning Strategist | 📚 | Publishing strategy, market positioning, book concepts |
 | Creator Business Architect | 🏗️ | Solo creator business modeling and monetization |
 | Offer Architect | 💰 | Product offer design and pricing strategy |
+| Startup Validator | 💀 | Brutal startup idea stress-testing — 7 kill-or-commit lenses |
 | Productivity Architect | ⏱️ | Weekly productivity system design |
 | Prompt Engineer | 🎯 | LLM prompt design and optimization |
 | Viral Reverse Engineer | 📈 | Social media growth analysis and virality patterns |

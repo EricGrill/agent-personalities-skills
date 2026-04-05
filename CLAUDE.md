@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Repo Is
 
-A Claude Code plugin providing 136 specialized agent definitions, 4 reusable skills, and a collection of framework-agnostic AI personalities. Installable via the Claude Code plugin system.
+A Claude Code plugin providing 137 specialized agent definitions, 4 reusable skills, and a collection of framework-agnostic AI personalities. Installable via the Claude Code plugin system.
 
 ## Plugin Structure
 
@@ -12,7 +12,7 @@ A Claude Code plugin providing 136 specialized agent definitions, 4 reusable ski
 .claude-plugin/
   plugin.json             # Plugin metadata (required for installation)
 agents/                   # Claude Code agent definitions (136 agents)
-  biz/                    # Business & product (11)
+  biz/                    # Business & product (12)
   core-dev/               # Core development (10)
   data-ai/                # Data & AI (12)
   dev-exp/                # Developer experience (13)
